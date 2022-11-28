@@ -439,15 +439,14 @@ p {
     background-color: #017acc;
 }
 #order_form {
-  background: rgb(242, 243, 246) none repeat scroll 0% 0%;
-  background-image: url("../images/hologram_1.png"), url("../images/formbg.png");
+  background-image: url("../images/formbg.png");
   padding: 35px 20px;
   max-width: 662px;
   font-family: Arial;
   margin: 20px auto;
   background-repeat: no-repeat;
-  background-size: 10% auto, 100% 100%;
-  background-position: 4% 23px, center;
+  background-size: 100% 100%;
+  background-position: center;
   text-align: center;
 }
 
